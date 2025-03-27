@@ -8,6 +8,9 @@
     font-family: 'Poppins', sans-serif;
 }
 
+h1{
+    color:green;
+}
 .container {
     inline-size: 100%;
     min-block-size: 100vh;
